@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://github.com/mrp4nda1337/"><img title="Github" src="https://img.shields.io/badge/MYOPECS-MrPanda-brightgreen?style=for-the-badge&logo=github"></a><br>
 
-
-Cybersecurity Graduate University of Panda 
+<p align="center">
+Cybersecurity at University of Panda 
 
 Full-Time Open-Sourcerer & Aspiring Pentester.
 I am a tech hobbyist, cybersecurity enthusiast and a digital content creator.
