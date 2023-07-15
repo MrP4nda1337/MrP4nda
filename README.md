@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/mrp4nda1337/"><img title="Made in MYOPECS" src="https://img.shields.io/badge/MADE%20IN-MYOPECS-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 
-![Mrpanda](https://github.com/MrP4nda1337/MrP4nda/blob/main/mrpanda.jpg)
+![Mrpanda](https://github.com/MrP4nda1337/MrP4nda/blob/main/mrpanda-modified.png)
 <p align="center">
   <a href="https://github.com/mrp4nda1337/"><img title="Github" src="https://img.shields.io/badge/MYOPECS-MrPanda-brightgreen?style=for-the-badge&logo=github"></a><br>
 
